@@ -1,0 +1,26 @@
+#container{
+    width: 600px;
+    height: auto;
+}
+img{
+    width: 500px;
+    border: 2px ;
+    image-rendering: pixelated;
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color: #AFE3DC;
+}
+h2{
+    text-align: center;
+    background-color: #BDAFE3;
+}
+h3{
+    text-align: center;
+}
+
+article{
+    text-align: center;
+}
